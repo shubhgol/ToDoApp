@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.todoApp {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  padding: 10px 50px 0px 50px;
+}
+
+table td {
+  width: 300px;
+  max-width: 300px;
+}
